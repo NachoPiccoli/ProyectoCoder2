@@ -54,7 +54,7 @@ ROOT_URLCONF = 'ProyectoCoder2.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:\Users\IgnacioPiccoli\Desktop\Coder\PythonCoder\Django\ProyectoCoder2\ProyectoCoder2\AppCoder2\Templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
